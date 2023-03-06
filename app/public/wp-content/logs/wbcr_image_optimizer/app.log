@@ -1,0 +1,748 @@
+
+07-02-2023 19:30:38 [careeradvisor.local][info] Parent plugin start installation!
+07-02-2023 19:30:38 [careeradvisor.local][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.8
+07-02-2023 19:30:38 [careeradvisor.local][info] Parent plugin installation complete!
+-------------------------------
+07-02-2023 19:30:44 [careeradvisor.local][info] Try to create backup directory. Backup dir: (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup)
+-------------------------------
+07-02-2023 19:56:52 [careeradvisor.local][info] START auto optimize cron job. Attachment: 23
+07-02-2023 19:56:52 [careeradvisor.local][info] Try to create backup directory. Backup dir: (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02)
+07-02-2023 19:56:52 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/welcome8-2.jpg) to a remote server (server_1).
+07-02-2023 19:56:52 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 19:56:53 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/welcome8-2-150x150.jpg) to a remote server (server_1).
+07-02-2023 19:56:53 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 19:56:53 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/welcome8-2-300x167.jpg) to a remote server (server_1).
+07-02-2023 19:56:53 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 19:56:53 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/welcome8-2-768x427.jpg) to a remote server (server_1).
+07-02-2023 19:56:53 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 19:56:54 [careeradvisor.local][debug] New queue created #1, attributes values: {"server_id":null,"object_id":23,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":831617,"final_size":243317,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":692019,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675796214}
+07-02-2023 19:56:54 [careeradvisor.local][info] END auto optimize cron job. Attachment: 23
+07-02-2023 19:56:54 [careeradvisor.local][info] START auto optimize cron job. Attachment: 24
+07-02-2023 19:56:54 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/head3.jpg) to a remote server (server_1).
+07-02-2023 19:56:54 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 19:56:54 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/head3-150x150.jpg) to a remote server (server_1).
+07-02-2023 19:56:54 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 19:56:55 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/head3-300x169.jpg) to a remote server (server_1).
+07-02-2023 19:56:55 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 19:56:55 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/head3-768x432.jpg) to a remote server (server_1).
+07-02-2023 19:56:55 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 19:56:55 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/head3-1024x576.jpg) to a remote server (server_1).
+07-02-2023 19:56:55 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 19:56:56 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/head3-1536x864.jpg) to a remote server (server_1).
+07-02-2023 19:56:56 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 19:56:57 [careeradvisor.local][debug] New queue created #2, attributes values: {"server_id":null,"object_id":24,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":557998,"final_size":442401,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":259385,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675796217}
+07-02-2023 19:56:57 [careeradvisor.local][info] END auto optimize cron job. Attachment: 24
+-------------------------------
+07-02-2023 20:25:07 [careeradvisor.local][info] START auto optimize cron job. Attachment: 38
+07-02-2023 20:25:07 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-253.png) to a remote server (server_1).
+07-02-2023 20:25:07 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:07 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-253-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:07 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:07 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-253-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:08 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:08 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-253-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:08 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:08 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-253-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:08 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:08 [careeradvisor.local][debug] New queue created #3, attributes values: {"server_id":null,"object_id":38,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797908}
+07-02-2023 20:25:08 [careeradvisor.local][info] END auto optimize cron job. Attachment: 38
+07-02-2023 20:25:08 [careeradvisor.local][info] START auto optimize cron job. Attachment: 39
+07-02-2023 20:25:08 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Slider_img-1-1.jpeg) to a remote server (server_1).
+07-02-2023 20:25:09 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:09 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Slider_img-1-1-150x150.jpeg) to a remote server (server_1).
+07-02-2023 20:25:09 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:09 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Slider_img-1-1-300x160.jpeg) to a remote server (server_1).
+07-02-2023 20:25:09 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:09 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Slider_img-1-1-768x409.jpeg) to a remote server (server_1).
+07-02-2023 20:25:10 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:10 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Slider_img-1-1-1024x545.jpeg) to a remote server (server_1).
+07-02-2023 20:25:10 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:10 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Slider_img-1-1-1536x818.jpeg) to a remote server (server_1).
+07-02-2023 20:25:10 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:11 [careeradvisor.local][debug] New queue created #4, attributes values: {"server_id":null,"object_id":39,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":180850,"final_size":160401,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":38579,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797911}
+07-02-2023 20:25:11 [careeradvisor.local][info] END auto optimize cron job. Attachment: 39
+07-02-2023 20:25:11 [careeradvisor.local][info] START auto optimize cron job. Attachment: 40
+07-02-2023 20:25:11 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-254.png) to a remote server (server_1).
+07-02-2023 20:25:11 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:11 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-254-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:11 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:11 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-254-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:11 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:11 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-254-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:12 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:12 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-254-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:12 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:12 [careeradvisor.local][debug] New queue created #5, attributes values: {"server_id":null,"object_id":40,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797912}
+07-02-2023 20:25:12 [careeradvisor.local][info] END auto optimize cron job. Attachment: 40
+07-02-2023 20:25:12 [careeradvisor.local][info] START auto optimize cron job. Attachment: 41
+07-02-2023 20:25:12 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-255.png) to a remote server (server_1).
+07-02-2023 20:25:13 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:13 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-255-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:13 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:13 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-255-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:13 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:13 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-255-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:13 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:14 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-255-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:14 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:14 [careeradvisor.local][debug] New queue created #6, attributes values: {"server_id":null,"object_id":41,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797914}
+07-02-2023 20:25:14 [careeradvisor.local][info] END auto optimize cron job. Attachment: 41
+07-02-2023 20:25:14 [careeradvisor.local][info] START auto optimize cron job. Attachment: 42
+07-02-2023 20:25:14 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-240.png) to a remote server (server_1).
+07-02-2023 20:25:15 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:15 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-240-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:15 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:15 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-240-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:15 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:15 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-240-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:15 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:15 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-240-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:16 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:16 [careeradvisor.local][debug] New queue created #7, attributes values: {"server_id":null,"object_id":42,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":50026,"final_size":18827,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":3059,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797916}
+07-02-2023 20:25:16 [careeradvisor.local][info] END auto optimize cron job. Attachment: 42
+07-02-2023 20:25:16 [careeradvisor.local][info] START auto optimize cron job. Attachment: 43
+07-02-2023 20:25:16 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-256.png) to a remote server (server_1).
+07-02-2023 20:25:16 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:16 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-256-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:16 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:17 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-256-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:17 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:17 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-256-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:17 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:17 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-256-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:17 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:17 [careeradvisor.local][debug] New queue created #8, attributes values: {"server_id":null,"object_id":43,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797917}
+07-02-2023 20:25:17 [careeradvisor.local][info] END auto optimize cron job. Attachment: 43
+07-02-2023 20:25:17 [careeradvisor.local][info] START auto optimize cron job. Attachment: 44
+07-02-2023 20:25:17 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-257.png) to a remote server (server_1).
+07-02-2023 20:25:18 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:18 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-257-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:18 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:18 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-257-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:18 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:18 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-257-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:19 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:19 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-257-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:19 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:19 [careeradvisor.local][debug] New queue created #9, attributes values: {"server_id":null,"object_id":44,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20493,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797919}
+07-02-2023 20:25:19 [careeradvisor.local][info] END auto optimize cron job. Attachment: 44
+07-02-2023 20:25:19 [careeradvisor.local][info] START auto optimize cron job. Attachment: 45
+07-02-2023 20:25:19 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-258.png) to a remote server (server_1).
+07-02-2023 20:25:19 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:19 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-258-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:20 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:20 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-258-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:20 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:20 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-258-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:20 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:20 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-258-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:21 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:21 [careeradvisor.local][debug] New queue created #10, attributes values: {"server_id":null,"object_id":45,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797921}
+07-02-2023 20:25:21 [careeradvisor.local][info] END auto optimize cron job. Attachment: 45
+07-02-2023 20:25:21 [careeradvisor.local][info] START auto optimize cron job. Attachment: 46
+07-02-2023 20:25:21 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-259.png) to a remote server (server_1).
+07-02-2023 20:25:21 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:21 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-259-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:21 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:21 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-259-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:21 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:22 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-259-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:22 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:22 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-259-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:22 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:22 [careeradvisor.local][debug] New queue created #11, attributes values: {"server_id":null,"object_id":46,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797922}
+07-02-2023 20:25:22 [careeradvisor.local][info] END auto optimize cron job. Attachment: 46
+07-02-2023 20:25:22 [careeradvisor.local][info] START auto optimize cron job. Attachment: 47
+07-02-2023 20:25:22 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-260.png) to a remote server (server_1).
+07-02-2023 20:25:23 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:23 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-260-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:23 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:23 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-260-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:23 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:23 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-260-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:23 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:23 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-260-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:24 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:24 [careeradvisor.local][debug] New queue created #12, attributes values: {"server_id":null,"object_id":47,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797924}
+07-02-2023 20:25:24 [careeradvisor.local][info] END auto optimize cron job. Attachment: 47
+07-02-2023 20:25:24 [careeradvisor.local][info] START auto optimize cron job. Attachment: 48
+07-02-2023 20:25:24 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-261.png) to a remote server (server_1).
+07-02-2023 20:25:24 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:24 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-261-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:24 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:24 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-261-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:25 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:25 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-261-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:25 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:25 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-261-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:25 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:25 [careeradvisor.local][debug] New queue created #13, attributes values: {"server_id":null,"object_id":48,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20522,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797925}
+07-02-2023 20:25:25 [careeradvisor.local][info] END auto optimize cron job. Attachment: 48
+07-02-2023 20:25:25 [careeradvisor.local][info] START auto optimize cron job. Attachment: 49
+07-02-2023 20:25:25 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Testimonial_img-1-2-2.jpeg) to a remote server (server_1).
+07-02-2023 20:25:25 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:26 [careeradvisor.local][debug] New queue created #14, attributes values: {"server_id":null,"object_id":49,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":2071,"final_size":1996,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2071,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797926}
+07-02-2023 20:25:26 [careeradvisor.local][info] END auto optimize cron job. Attachment: 49
+07-02-2023 20:25:26 [careeradvisor.local][info] START auto optimize cron job. Attachment: 50
+07-02-2023 20:25:26 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-262.png) to a remote server (server_1).
+07-02-2023 20:25:26 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:26 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-262-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:26 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:26 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-262-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:26 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:27 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-262-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:27 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:27 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-262-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:27 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:27 [careeradvisor.local][debug] New queue created #15, attributes values: {"server_id":null,"object_id":50,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797927}
+07-02-2023 20:25:27 [careeradvisor.local][info] END auto optimize cron job. Attachment: 50
+07-02-2023 20:25:27 [careeradvisor.local][info] START auto optimize cron job. Attachment: 51
+07-02-2023 20:25:27 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/st_about_accordian.jpg) to a remote server (server_1).
+07-02-2023 20:25:28 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:28 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/st_about_accordian-150x150.jpg) to a remote server (server_1).
+07-02-2023 20:25:28 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:28 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/st_about_accordian-300x229.jpg) to a remote server (server_1).
+07-02-2023 20:25:28 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:28 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/st_about_accordian-768x587.jpg) to a remote server (server_1).
+07-02-2023 20:25:29 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:29 [careeradvisor.local][debug] New queue created #16, attributes values: {"server_id":null,"object_id":51,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":349298,"final_size":119818,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":270407,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797929}
+07-02-2023 20:25:29 [careeradvisor.local][info] END auto optimize cron job. Attachment: 51
+07-02-2023 20:25:29 [careeradvisor.local][info] START auto optimize cron job. Attachment: 52
+07-02-2023 20:25:29 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Call-to-action_img.jpeg) to a remote server (server_1).
+07-02-2023 20:25:29 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:29 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Call-to-action_img-150x150.jpeg) to a remote server (server_1).
+07-02-2023 20:25:29 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:29 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Call-to-action_img-300x57.jpeg) to a remote server (server_1).
+07-02-2023 20:25:29 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:29 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Call-to-action_img-768x145.jpeg) to a remote server (server_1).
+07-02-2023 20:25:30 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:30 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Call-to-action_img-1024x194.jpeg) to a remote server (server_1).
+07-02-2023 20:25:30 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:30 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Call-to-action_img-1536x291.jpeg) to a remote server (server_1).
+07-02-2023 20:25:30 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:30 [careeradvisor.local][debug] New queue created #17, attributes values: {"server_id":null,"object_id":52,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":30968,"final_size":22420,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":2944,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797930}
+07-02-2023 20:25:30 [careeradvisor.local][info] END auto optimize cron job. Attachment: 52
+07-02-2023 20:25:30 [careeradvisor.local][info] START auto optimize cron job. Attachment: 53
+07-02-2023 20:25:30 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-263.png) to a remote server (server_1).
+07-02-2023 20:25:30 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:31 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-263-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:31 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:31 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-263-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:31 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:31 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-263-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:31 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:31 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-263-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:32 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:32 [careeradvisor.local][debug] New queue created #18, attributes values: {"server_id":null,"object_id":53,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797932}
+07-02-2023 20:25:32 [careeradvisor.local][info] END auto optimize cron job. Attachment: 53
+-------------------------------
+07-02-2023 20:25:37 [careeradvisor.local][info] START auto optimize cron job. Attachment: 54
+07-02-2023 20:25:37 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/call-back_img.jpeg) to a remote server (server_1).
+07-02-2023 20:25:37 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:37 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/call-back_img-150x150.jpeg) to a remote server (server_1).
+07-02-2023 20:25:37 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:37 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/call-back_img-300x271.jpeg) to a remote server (server_1).
+07-02-2023 20:25:37 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:37 [careeradvisor.local][debug] New queue created #19, attributes values: {"server_id":null,"object_id":54,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":37035,"final_size":34809,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":19822,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797937}
+07-02-2023 20:25:37 [careeradvisor.local][info] END auto optimize cron job. Attachment: 54
+07-02-2023 20:25:37 [careeradvisor.local][info] START auto optimize cron job. Attachment: 55
+07-02-2023 20:25:37 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-264.png) to a remote server (server_1).
+07-02-2023 20:25:38 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:38 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-264-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:38 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:38 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-264-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:38 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:38 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-264-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:39 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:39 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-264-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:39 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:39 [careeradvisor.local][debug] New queue created #20, attributes values: {"server_id":null,"object_id":55,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20493,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797939}
+07-02-2023 20:25:39 [careeradvisor.local][info] END auto optimize cron job. Attachment: 55
+07-02-2023 20:25:39 [careeradvisor.local][info] START auto optimize cron job. Attachment: 56
+07-02-2023 20:25:39 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/funfact_img-2.jpeg) to a remote server (server_1).
+07-02-2023 20:25:39 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:40 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/funfact_img-2-150x150.jpeg) to a remote server (server_1).
+07-02-2023 20:25:40 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:40 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/funfact_img-2-300x70.jpeg) to a remote server (server_1).
+07-02-2023 20:25:40 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:40 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/funfact_img-2-768x179.jpeg) to a remote server (server_1).
+07-02-2023 20:25:40 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:40 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/funfact_img-2-1024x239.jpeg) to a remote server (server_1).
+07-02-2023 20:25:41 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:41 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/funfact_img-2-1536x358.jpeg) to a remote server (server_1).
+07-02-2023 20:25:41 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:41 [careeradvisor.local][debug] New queue created #21, attributes values: {"server_id":null,"object_id":56,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":149046,"final_size":135235,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":32931,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797941}
+07-02-2023 20:25:41 [careeradvisor.local][info] END auto optimize cron job. Attachment: 56
+07-02-2023 20:25:41 [careeradvisor.local][info] START auto optimize cron job. Attachment: 57
+07-02-2023 20:25:41 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Testimonial_img-1.jpeg) to a remote server (server_1).
+07-02-2023 20:25:41 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:41 [careeradvisor.local][debug] New queue created #22, attributes values: {"server_id":null,"object_id":57,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":1660,"final_size":1660,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1660,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797941}
+07-02-2023 20:25:41 [careeradvisor.local][info] END auto optimize cron job. Attachment: 57
+07-02-2023 20:25:41 [careeradvisor.local][info] START auto optimize cron job. Attachment: 58
+07-02-2023 20:25:41 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Testimonial_img-2.jpeg) to a remote server (server_1).
+07-02-2023 20:25:41 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:42 [careeradvisor.local][debug] New queue created #23, attributes values: {"server_id":null,"object_id":58,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":2071,"final_size":1996,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2071,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797942}
+07-02-2023 20:25:42 [careeradvisor.local][info] END auto optimize cron job. Attachment: 58
+07-02-2023 20:25:42 [careeradvisor.local][info] START auto optimize cron job. Attachment: 59
+07-02-2023 20:25:42 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Testimonial_img-3.jpeg) to a remote server (server_1).
+07-02-2023 20:25:42 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:42 [careeradvisor.local][debug] New queue created #24, attributes values: {"server_id":null,"object_id":59,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":1692,"final_size":1692,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1692,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797942}
+07-02-2023 20:25:42 [careeradvisor.local][info] END auto optimize cron job. Attachment: 59
+07-02-2023 20:25:42 [careeradvisor.local][info] START auto optimize cron job. Attachment: 60
+07-02-2023 20:25:42 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-265.png) to a remote server (server_1).
+07-02-2023 20:25:42 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:42 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-265-150x150.png) to a remote server (server_1).
+07-02-2023 20:25:42 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:43 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-265-300x200.png) to a remote server (server_1).
+07-02-2023 20:25:43 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:43 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-265-768x512.png) to a remote server (server_1).
+07-02-2023 20:25:43 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:43 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-265-1024x683.png) to a remote server (server_1).
+07-02-2023 20:25:44 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:44 [careeradvisor.local][debug] New queue created #25, attributes values: {"server_id":null,"object_id":60,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797944}
+07-02-2023 20:25:44 [careeradvisor.local][info] END auto optimize cron job. Attachment: 60
+07-02-2023 20:25:44 [careeradvisor.local][info] START auto optimize cron job. Attachment: 61
+07-02-2023 20:25:44 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Partner_img-5-1.png) to a remote server (server_1).
+07-02-2023 20:25:44 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:44 [careeradvisor.local][debug] New queue created #26, attributes values: {"server_id":null,"object_id":61,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":1612,"final_size":1612,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1612,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797944}
+07-02-2023 20:25:44 [careeradvisor.local][info] END auto optimize cron job. Attachment: 61
+07-02-2023 20:25:44 [careeradvisor.local][info] START auto optimize cron job. Attachment: 62
+07-02-2023 20:25:44 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Partner_img-4-1.png) to a remote server (server_1).
+07-02-2023 20:25:44 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:44 [careeradvisor.local][debug] New queue created #27, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":1133,"final_size":1133,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1133,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797944}
+07-02-2023 20:25:44 [careeradvisor.local][info] END auto optimize cron job. Attachment: 62
+07-02-2023 20:25:44 [careeradvisor.local][info] START auto optimize cron job. Attachment: 63
+07-02-2023 20:25:44 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Partner_img-3-1.png) to a remote server (server_1).
+07-02-2023 20:25:44 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:44 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Partner_img-3-1-150x80.png) to a remote server (server_1).
+07-02-2023 20:25:45 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:45 [careeradvisor.local][debug] New queue created #28, attributes values: {"server_id":null,"object_id":63,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":4753,"final_size":3349,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":1687,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797945}
+07-02-2023 20:25:45 [careeradvisor.local][info] END auto optimize cron job. Attachment: 63
+07-02-2023 20:25:45 [careeradvisor.local][info] START auto optimize cron job. Attachment: 64
+07-02-2023 20:25:45 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/Partner_img-2-1.png) to a remote server (server_1).
+07-02-2023 20:25:45 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 20:25:45 [careeradvisor.local][debug] New queue created #29, attributes values: {"server_id":null,"object_id":64,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":1203,"final_size":1203,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1203,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675797945}
+07-02-2023 20:25:45 [careeradvisor.local][info] END auto optimize cron job. Attachment: 64
+-------------------------------
+07-02-2023 21:41:34 [careeradvisor.local][info] START auto optimize cron job. Attachment: 104
+07-02-2023 21:41:34 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/quotes-01.png) to a remote server (server_1).
+07-02-2023 21:41:34 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:34 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/quotes-01-150x150.png) to a remote server (server_1).
+07-02-2023 21:41:35 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:35 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/quotes-01-300x300.png) to a remote server (server_1).
+07-02-2023 21:41:35 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:35 [careeradvisor.local][debug] New queue created #30, attributes values: {"server_id":null,"object_id":104,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":17506,"final_size":9381,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":7480,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675802495}
+07-02-2023 21:41:35 [careeradvisor.local][info] END auto optimize cron job. Attachment: 104
+07-02-2023 21:41:35 [careeradvisor.local][info] START auto optimize cron job. Attachment: 105
+07-02-2023 21:41:35 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder.png) to a remote server (server_1).
+07-02-2023 21:41:35 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:36 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-150x150.png) to a remote server (server_1).
+07-02-2023 21:41:36 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:36 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-300x200.png) to a remote server (server_1).
+07-02-2023 21:41:36 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:36 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-768x512.png) to a remote server (server_1).
+07-02-2023 21:41:36 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:36 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-1024x683.png) to a remote server (server_1).
+07-02-2023 21:41:37 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:37 [careeradvisor.local][debug] New queue created #31, attributes values: {"server_id":null,"object_id":105,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675802497}
+07-02-2023 21:41:37 [careeradvisor.local][info] END auto optimize cron job. Attachment: 105
+07-02-2023 21:41:37 [careeradvisor.local][info] START auto optimize cron job. Attachment: 106
+07-02-2023 21:41:37 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-1.png) to a remote server (server_1).
+07-02-2023 21:41:37 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:37 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-1-150x150.png) to a remote server (server_1).
+07-02-2023 21:41:37 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:37 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-1-300x200.png) to a remote server (server_1).
+07-02-2023 21:41:38 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:38 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-1-768x512.png) to a remote server (server_1).
+07-02-2023 21:41:38 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:38 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/placeholder-1-1024x683.png) to a remote server (server_1).
+07-02-2023 21:41:38 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:41:38 [careeradvisor.local][debug] New queue created #32, attributes values: {"server_id":null,"object_id":106,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":43288,"final_size":20464,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":6146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675802498}
+07-02-2023 21:41:38 [careeradvisor.local][info] END auto optimize cron job. Attachment: 106
+-------------------------------
+07-02-2023 21:48:12 [careeradvisor.local][info] START auto optimize cron job. Attachment: 115
+07-02-2023 21:48:12 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/2cc.png) to a remote server (server_1).
+07-02-2023 21:48:12 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:48:12 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/2cc-150x150.png) to a remote server (server_1).
+07-02-2023 21:48:13 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:48:13 [careeradvisor.local][debug] New queue created #33, attributes values: {"server_id":null,"object_id":115,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":17001,"final_size":10842,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":5752,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675802893}
+07-02-2023 21:48:13 [careeradvisor.local][info] END auto optimize cron job. Attachment: 115
+-------------------------------
+07-02-2023 21:49:37 [careeradvisor.local][info] START auto optimize cron job. Attachment: 117
+07-02-2023 21:49:37 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/aip.png) to a remote server (server_1).
+07-02-2023 21:49:37 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:49:37 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/aip-150x150.png) to a remote server (server_1).
+07-02-2023 21:49:37 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:49:37 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/aip-300x158.png) to a remote server (server_1).
+07-02-2023 21:49:38 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:49:38 [careeradvisor.local][debug] New queue created #34, attributes values: {"server_id":null,"object_id":117,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":38874,"final_size":19669,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":5554,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675802978}
+07-02-2023 21:49:38 [careeradvisor.local][info] END auto optimize cron job. Attachment: 117
+-------------------------------
+07-02-2023 21:49:43 [careeradvisor.local][info] START auto optimize cron job. Attachment: 117
+07-02-2023 21:49:43 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/aip.png.
+07-02-2023 21:49:43 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/aip-150x150.png.
+07-02-2023 21:49:43 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/aip-300x158.png.
+07-02-2023 21:49:43 [careeradvisor.local][debug] Deleted queue item #34
+07-02-2023 21:49:43 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/aip.png) to a remote server (server_1).
+07-02-2023 21:49:43 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:49:43 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/aip-150x150.png) to a remote server (server_1).
+07-02-2023 21:49:44 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:49:44 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/aip-300x158.png) to a remote server (server_1).
+07-02-2023 21:49:44 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:49:44 [careeradvisor.local][debug] New queue created #35, attributes values: {"server_id":null,"object_id":117,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":38874,"final_size":19669,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":5554,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675802984}
+07-02-2023 21:49:44 [careeradvisor.local][info] END auto optimize cron job. Attachment: 117
+-------------------------------
+07-02-2023 21:49:51 [careeradvisor.local][info] START auto optimize cron job. Attachment: 118
+07-02-2023 21:49:51 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/bertelsmann.png) to a remote server (server_1).
+07-02-2023 21:49:51 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:49:51 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/bertelsmann-150x150.png) to a remote server (server_1).
+07-02-2023 21:49:51 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:49:51 [careeradvisor.local][debug] New queue created #36, attributes values: {"server_id":null,"object_id":118,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":5597,"final_size":3532,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":1436,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675802991}
+07-02-2023 21:49:51 [careeradvisor.local][info] END auto optimize cron job. Attachment: 118
+-------------------------------
+07-02-2023 21:49:56 [careeradvisor.local][info] START auto optimize cron job. Attachment: 118
+07-02-2023 21:49:56 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/bertelsmann.png.
+07-02-2023 21:49:56 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/bertelsmann-150x150.png.
+07-02-2023 21:49:56 [careeradvisor.local][debug] Deleted queue item #36
+07-02-2023 21:49:56 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/bertelsmann.png) to a remote server (server_1).
+07-02-2023 21:49:56 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:49:56 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/bertelsmann-150x150.png) to a remote server (server_1).
+07-02-2023 21:49:56 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:49:56 [careeradvisor.local][debug] New queue created #37, attributes values: {"server_id":null,"object_id":118,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":5597,"final_size":3532,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":1436,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675802996}
+07-02-2023 21:49:56 [careeradvisor.local][info] END auto optimize cron job. Attachment: 118
+-------------------------------
+07-02-2023 21:50:02 [careeradvisor.local][info] START auto optimize cron job. Attachment: 119
+07-02-2023 21:50:02 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/energis.jpg) to a remote server (server_1).
+07-02-2023 21:50:02 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:02 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/energis-150x150.jpg) to a remote server (server_1).
+07-02-2023 21:50:02 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:02 [careeradvisor.local][debug] New queue created #38, attributes values: {"server_id":null,"object_id":119,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":8245,"final_size":7450,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":4283,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803002}
+07-02-2023 21:50:02 [careeradvisor.local][info] END auto optimize cron job. Attachment: 119
+-------------------------------
+07-02-2023 21:50:13 [careeradvisor.local][info] START auto optimize cron job. Attachment: 119
+07-02-2023 21:50:13 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/energis.jpg.
+07-02-2023 21:50:13 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/energis-150x150.jpg.
+07-02-2023 21:50:13 [careeradvisor.local][debug] Deleted queue item #38
+07-02-2023 21:50:13 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/energis.jpg) to a remote server (server_1).
+07-02-2023 21:50:14 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:14 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/energis-150x150.jpg) to a remote server (server_1).
+07-02-2023 21:50:14 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:14 [careeradvisor.local][debug] New queue created #39, attributes values: {"server_id":null,"object_id":119,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":8245,"final_size":7450,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":4283,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803014}
+07-02-2023 21:50:14 [careeradvisor.local][info] END auto optimize cron job. Attachment: 119
+07-02-2023 21:50:14 [careeradvisor.local][info] START auto optimize cron job. Attachment: 120
+07-02-2023 21:50:14 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/hos.jpg) to a remote server (server_1).
+07-02-2023 21:50:14 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:14 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/hos-150x150.jpg) to a remote server (server_1).
+07-02-2023 21:50:14 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:15 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/hos-300x149.jpg) to a remote server (server_1).
+07-02-2023 21:50:15 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:15 [careeradvisor.local][debug] New queue created #40, attributes values: {"server_id":null,"object_id":120,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":11850,"final_size":9324,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":4120,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803015}
+07-02-2023 21:50:15 [careeradvisor.local][info] END auto optimize cron job. Attachment: 120
+-------------------------------
+07-02-2023 21:50:27 [careeradvisor.local][info] START auto optimize cron job. Attachment: 121
+07-02-2023 21:50:27 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/pepsico.png) to a remote server (server_1).
+07-02-2023 21:50:27 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:27 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/pepsico-150x150.png) to a remote server (server_1).
+07-02-2023 21:50:27 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:27 [careeradvisor.local][debug] New queue created #41, attributes values: {"server_id":null,"object_id":121,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":13452,"final_size":7166,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":3263,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803027}
+07-02-2023 21:50:27 [careeradvisor.local][info] END auto optimize cron job. Attachment: 121
+-------------------------------
+07-02-2023 21:50:28 [careeradvisor.local][info] START auto optimize cron job. Attachment: 121
+07-02-2023 21:50:28 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/pepsico.png.
+07-02-2023 21:50:28 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/pepsico-150x150.png.
+07-02-2023 21:50:28 [careeradvisor.local][debug] Deleted queue item #41
+07-02-2023 21:50:28 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/pepsico.png) to a remote server (server_1).
+07-02-2023 21:50:28 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:28 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/pepsico-150x150.png) to a remote server (server_1).
+07-02-2023 21:50:28 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:29 [careeradvisor.local][debug] New queue created #42, attributes values: {"server_id":null,"object_id":121,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":13452,"final_size":7181,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":3263,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803029}
+07-02-2023 21:50:29 [careeradvisor.local][info] END auto optimize cron job. Attachment: 121
+-------------------------------
+07-02-2023 21:50:43 [careeradvisor.local][info] START auto optimize cron job. Attachment: 122
+07-02-2023 21:50:43 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/pko.png) to a remote server (server_1).
+07-02-2023 21:50:43 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:44 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/pko-150x150.png) to a remote server (server_1).
+07-02-2023 21:50:44 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:44 [careeradvisor.local][debug] New queue created #43, attributes values: {"server_id":null,"object_id":122,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":12149,"final_size":6973,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":3278,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803044}
+07-02-2023 21:50:44 [careeradvisor.local][info] END auto optimize cron job. Attachment: 122
+-------------------------------
+07-02-2023 21:50:58 [careeradvisor.local][info] START auto optimize cron job. Attachment: 123
+07-02-2023 21:50:58 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/pup.jpg) to a remote server (server_1).
+07-02-2023 21:50:58 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:58 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/pup-150x150.jpg) to a remote server (server_1).
+07-02-2023 21:50:59 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:59 [careeradvisor.local][debug] New queue created #44, attributes values: {"server_id":null,"object_id":123,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":7836,"final_size":7130,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":3820,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803059}
+07-02-2023 21:50:59 [careeradvisor.local][info] END auto optimize cron job. Attachment: 123
+07-02-2023 21:50:59 [careeradvisor.local][info] START auto optimize cron job. Attachment: 124
+07-02-2023 21:50:59 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/pzu.jpg) to a remote server (server_1).
+07-02-2023 21:50:59 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:59 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/pzu-150x150.jpg) to a remote server (server_1).
+07-02-2023 21:50:59 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:50:59 [careeradvisor.local][debug] New queue created #45, attributes values: {"server_id":null,"object_id":124,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":14091,"final_size":13004,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":7751,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803059}
+07-02-2023 21:50:59 [careeradvisor.local][info] END auto optimize cron job. Attachment: 124
+-------------------------------
+07-02-2023 21:51:23 [careeradvisor.local][info] START auto optimize cron job. Attachment: 125
+07-02-2023 21:51:23 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/swps.png) to a remote server (server_1).
+07-02-2023 21:51:23 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:51:23 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/swps-150x150.png) to a remote server (server_1).
+07-02-2023 21:51:24 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:51:24 [careeradvisor.local][debug] New queue created #46, attributes values: {"server_id":null,"object_id":125,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":17803,"final_size":10319,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":5217,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803084}
+07-02-2023 21:51:24 [careeradvisor.local][info] END auto optimize cron job. Attachment: 125
+-------------------------------
+07-02-2023 21:51:27 [careeradvisor.local][info] START auto optimize cron job. Attachment: 125
+07-02-2023 21:51:27 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/swps.png.
+07-02-2023 21:51:27 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/swps-150x150.png.
+07-02-2023 21:51:27 [careeradvisor.local][debug] Deleted queue item #46
+07-02-2023 21:51:27 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/swps.png) to a remote server (server_1).
+07-02-2023 21:51:27 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:51:27 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/swps-150x150.png) to a remote server (server_1).
+07-02-2023 21:51:27 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:51:28 [careeradvisor.local][debug] New queue created #47, attributes values: {"server_id":null,"object_id":125,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":17803,"final_size":10319,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":5217,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803088}
+07-02-2023 21:51:28 [careeradvisor.local][info] END auto optimize cron job. Attachment: 125
+07-02-2023 21:51:28 [careeradvisor.local][info] START auto optimize cron job. Attachment: 126
+07-02-2023 21:51:28 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/uw.jpg) to a remote server (server_1).
+07-02-2023 21:51:28 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:51:28 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/uw-150x150.jpg) to a remote server (server_1).
+07-02-2023 21:51:28 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:51:28 [careeradvisor.local][debug] New queue created #48, attributes values: {"server_id":null,"object_id":126,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":11894,"final_size":11137,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":7090,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803088}
+07-02-2023 21:51:28 [careeradvisor.local][info] END auto optimize cron job. Attachment: 126
+-------------------------------
+07-02-2023 21:51:43 [careeradvisor.local][info] START auto optimize cron job. Attachment: 127
+07-02-2023 21:51:43 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/wsti.jpg) to a remote server (server_1).
+07-02-2023 21:51:43 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:51:43 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/wsti-150x150.jpg) to a remote server (server_1).
+07-02-2023 21:51:44 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 21:51:44 [careeradvisor.local][debug] New queue created #49, attributes values: {"server_id":null,"object_id":127,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":11071,"final_size":10143,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":5627,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803104}
+07-02-2023 21:51:44 [careeradvisor.local][info] END auto optimize cron job. Attachment: 127
+-------------------------------
+07-02-2023 22:06:19 [careeradvisor.local][info] START auto optimize cron job. Attachment: 131
+07-02-2023 22:06:19 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/port6.jpg) to a remote server (server_1).
+07-02-2023 22:06:19 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 22:06:20 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/port6-150x150.jpg) to a remote server (server_1).
+07-02-2023 22:06:20 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 22:06:20 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/port6-300x225.jpg) to a remote server (server_1).
+07-02-2023 22:06:20 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 22:06:20 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/port6-768x576.jpg) to a remote server (server_1).
+07-02-2023 22:06:20 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 22:06:20 [careeradvisor.local][debug] New queue created #50, attributes values: {"server_id":null,"object_id":131,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":212241,"final_size":93588,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":150407,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803980}
+07-02-2023 22:06:20 [careeradvisor.local][info] END auto optimize cron job. Attachment: 131
+07-02-2023 22:06:20 [careeradvisor.local][info] START auto optimize cron job. Attachment: 132
+07-02-2023 22:06:20 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/welcome6.jpg) to a remote server (server_1).
+07-02-2023 22:06:21 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 22:06:21 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/welcome6-150x150.jpg) to a remote server (server_1).
+07-02-2023 22:06:21 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 22:06:21 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/welcome6-300x250.jpg) to a remote server (server_1).
+07-02-2023 22:06:21 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 22:06:21 [careeradvisor.local][debug] New queue created #51, attributes values: {"server_id":null,"object_id":132,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":285235,"final_size":78147,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":259778,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675803981}
+07-02-2023 22:06:21 [careeradvisor.local][info] END auto optimize cron job. Attachment: 132
+-------------------------------
+07-02-2023 23:07:58 [careeradvisor.local][info] START auto optimize cron job. Attachment: 173
+07-02-2023 23:07:58 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/hector-martinez-110928-unsplash.jpg) to a remote server (server_1).
+07-02-2023 23:07:59 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:07:59 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/hector-martinez-110928-unsplash-150x150.jpg) to a remote server (server_1).
+07-02-2023 23:07:59 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:07:59 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/hector-martinez-110928-unsplash-300x242.jpg) to a remote server (server_1).
+07-02-2023 23:07:59 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:07:59 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/hector-martinez-110928-unsplash-768x618.jpg) to a remote server (server_1).
+07-02-2023 23:08:00 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:08:00 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/hector-martinez-110928-unsplash-1024x824.jpg) to a remote server (server_1).
+07-02-2023 23:08:00 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:08:01 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/hector-martinez-110928-unsplash-1536x1236.jpg) to a remote server (server_1).
+07-02-2023 23:08:01 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:08:02 [careeradvisor.local][debug] New queue created #52, attributes values: {"server_id":null,"object_id":173,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":1648567,"final_size":741829,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":1109088,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675807682}
+07-02-2023 23:08:02 [careeradvisor.local][info] END auto optimize cron job. Attachment: 173
+-------------------------------
+07-02-2023 23:42:12 [careeradvisor.local][info] START auto optimize cron job. Attachment: 190
+07-02-2023 23:42:12 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/quet-bg.png) to a remote server (server_1).
+07-02-2023 23:42:13 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:42:13 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/quet-bg-150x150.png) to a remote server (server_1).
+07-02-2023 23:42:13 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:42:13 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/quet-bg-300x151.png) to a remote server (server_1).
+07-02-2023 23:42:14 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:42:14 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/quet-bg-768x386.png) to a remote server (server_1).
+07-02-2023 23:42:14 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:42:14 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/quet-bg-1024x515.png) to a remote server (server_1).
+07-02-2023 23:42:14 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:42:14 [careeradvisor.local][info] Preparing to upload a file (C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/2023/02/quet-bg-1536x773.png) to a remote server (server_1).
+07-02-2023 23:42:15 [careeradvisor.local][info] File successfully uploaded to remote server (server_1).
+07-02-2023 23:42:15 [careeradvisor.local][debug] New queue created #53, attributes values: {"server_id":null,"object_id":190,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":128692,"final_size":61771,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":48262,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1675809735}
+07-02-2023 23:42:15 [careeradvisor.local][info] END auto optimize cron job. Attachment: 190
+-------------------------------
+06-03-2023 18:03:25 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-253.png.
+06-03-2023 18:03:25 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-253-150x150.png.
+06-03-2023 18:03:25 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-253-300x200.png.
+06-03-2023 18:03:25 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-253-768x512.png.
+06-03-2023 18:03:25 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-253-1024x683.png.
+06-03-2023 18:03:25 [careeradvisor.local][debug] Deleted queue item #3
+-------------------------------
+06-03-2023 18:03:31 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-254.png.
+06-03-2023 18:03:31 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-254-150x150.png.
+06-03-2023 18:03:31 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-254-300x200.png.
+06-03-2023 18:03:31 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-254-768x512.png.
+06-03-2023 18:03:31 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-254-1024x683.png.
+06-03-2023 18:03:31 [careeradvisor.local][debug] Deleted queue item #5
+-------------------------------
+06-03-2023 18:03:36 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-256.png.
+06-03-2023 18:03:36 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-256-150x150.png.
+06-03-2023 18:03:36 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-256-300x200.png.
+06-03-2023 18:03:36 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-256-768x512.png.
+06-03-2023 18:03:36 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-256-1024x683.png.
+06-03-2023 18:03:36 [careeradvisor.local][debug] Deleted queue item #8
+-------------------------------
+06-03-2023 18:03:42 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-255.png.
+06-03-2023 18:03:42 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-255-150x150.png.
+06-03-2023 18:03:42 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-255-300x200.png.
+06-03-2023 18:03:42 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-255-768x512.png.
+06-03-2023 18:03:42 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-255-1024x683.png.
+06-03-2023 18:03:42 [careeradvisor.local][debug] Deleted queue item #6
+-------------------------------
+06-03-2023 18:03:47 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-240.png.
+06-03-2023 18:03:47 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-240-150x150.png.
+06-03-2023 18:03:47 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-240-300x200.png.
+06-03-2023 18:03:47 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-240-768x512.png.
+06-03-2023 18:03:47 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-240-1024x683.png.
+06-03-2023 18:03:47 [careeradvisor.local][debug] Deleted queue item #7
+-------------------------------
+06-03-2023 18:03:53 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-259.png.
+06-03-2023 18:03:53 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-259-150x150.png.
+06-03-2023 18:03:53 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-259-300x200.png.
+06-03-2023 18:03:53 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-259-768x512.png.
+06-03-2023 18:03:53 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-259-1024x683.png.
+06-03-2023 18:03:53 [careeradvisor.local][debug] Deleted queue item #11
+-------------------------------
+06-03-2023 18:03:58 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-260.png.
+06-03-2023 18:03:58 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-260-150x150.png.
+06-03-2023 18:03:58 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-260-300x200.png.
+06-03-2023 18:03:58 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-260-768x512.png.
+06-03-2023 18:03:58 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-260-1024x683.png.
+06-03-2023 18:03:58 [careeradvisor.local][debug] Deleted queue item #12
+-------------------------------
+06-03-2023 18:04:04 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-257.png.
+06-03-2023 18:04:04 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-257-150x150.png.
+06-03-2023 18:04:04 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-257-300x200.png.
+06-03-2023 18:04:04 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-257-768x512.png.
+06-03-2023 18:04:04 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-257-1024x683.png.
+06-03-2023 18:04:04 [careeradvisor.local][debug] Deleted queue item #9
+-------------------------------
+06-03-2023 18:04:11 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-258.png.
+06-03-2023 18:04:11 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-258-150x150.png.
+06-03-2023 18:04:11 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-258-300x200.png.
+06-03-2023 18:04:11 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-258-768x512.png.
+06-03-2023 18:04:11 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-258-1024x683.png.
+06-03-2023 18:04:11 [careeradvisor.local][debug] Deleted queue item #10
+-------------------------------
+06-03-2023 18:04:18 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-261.png.
+06-03-2023 18:04:18 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-261-150x150.png.
+06-03-2023 18:04:18 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-261-300x200.png.
+06-03-2023 18:04:18 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-261-768x512.png.
+06-03-2023 18:04:18 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-261-1024x683.png.
+06-03-2023 18:04:18 [careeradvisor.local][debug] Deleted queue item #13
+-------------------------------
+06-03-2023 18:04:24 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-262.png.
+06-03-2023 18:04:24 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-262-150x150.png.
+06-03-2023 18:04:24 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-262-300x200.png.
+06-03-2023 18:04:24 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-262-768x512.png.
+06-03-2023 18:04:24 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-262-1024x683.png.
+06-03-2023 18:04:24 [careeradvisor.local][debug] Deleted queue item #15
+-------------------------------
+06-03-2023 18:04:29 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-263.png.
+06-03-2023 18:04:29 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-263-150x150.png.
+06-03-2023 18:04:29 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-263-300x200.png.
+06-03-2023 18:04:29 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-263-768x512.png.
+06-03-2023 18:04:29 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-263-1024x683.png.
+06-03-2023 18:04:29 [careeradvisor.local][debug] Deleted queue item #18
+-------------------------------
+06-03-2023 18:04:43 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Testimonial_img-1-2-2.jpeg.
+06-03-2023 18:04:43 [careeradvisor.local][debug] Deleted queue item #14
+-------------------------------
+06-03-2023 18:04:51 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Call-to-action_img.jpeg.
+06-03-2023 18:04:52 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Call-to-action_img-150x150.jpeg.
+06-03-2023 18:04:52 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Call-to-action_img-300x57.jpeg.
+06-03-2023 18:04:52 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Call-to-action_img-768x145.jpeg.
+06-03-2023 18:04:52 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Call-to-action_img-1024x194.jpeg.
+06-03-2023 18:04:52 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Call-to-action_img-1536x291.jpeg.
+06-03-2023 18:04:52 [careeradvisor.local][debug] Deleted queue item #17
+-------------------------------
+06-03-2023 18:05:20 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-264.png.
+06-03-2023 18:05:20 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-264-150x150.png.
+06-03-2023 18:05:20 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-264-300x200.png.
+06-03-2023 18:05:20 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-264-768x512.png.
+06-03-2023 18:05:20 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-264-1024x683.png.
+06-03-2023 18:05:20 [careeradvisor.local][debug] Deleted queue item #20
+-------------------------------
+06-03-2023 18:05:27 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Testimonial_img-2.jpeg.
+06-03-2023 18:05:27 [careeradvisor.local][debug] Deleted queue item #23
+-------------------------------
+06-03-2023 18:05:33 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Testimonial_img-3.jpeg.
+06-03-2023 18:05:33 [careeradvisor.local][debug] Deleted queue item #24
+-------------------------------
+06-03-2023 18:05:39 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-265.png.
+06-03-2023 18:05:39 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-265-150x150.png.
+06-03-2023 18:05:39 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-265-300x200.png.
+06-03-2023 18:05:39 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-265-768x512.png.
+06-03-2023 18:05:39 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-265-1024x683.png.
+06-03-2023 18:05:39 [careeradvisor.local][debug] Deleted queue item #25
+-------------------------------
+06-03-2023 18:05:46 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Partner_img-5-1.png.
+06-03-2023 18:05:46 [careeradvisor.local][debug] Deleted queue item #26
+-------------------------------
+06-03-2023 18:05:53 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/funfact_img-2.jpeg.
+06-03-2023 18:05:53 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/funfact_img-2-150x150.jpeg.
+06-03-2023 18:05:53 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/funfact_img-2-300x70.jpeg.
+06-03-2023 18:05:53 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/funfact_img-2-768x179.jpeg.
+06-03-2023 18:05:53 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/funfact_img-2-1024x239.jpeg.
+06-03-2023 18:05:53 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/funfact_img-2-1536x358.jpeg.
+06-03-2023 18:05:53 [careeradvisor.local][debug] Deleted queue item #21
+-------------------------------
+06-03-2023 18:05:59 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Testimonial_img-1.jpeg.
+06-03-2023 18:05:59 [careeradvisor.local][debug] Deleted queue item #22
+-------------------------------
+06-03-2023 18:06:04 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Partner_img-2-1.png.
+06-03-2023 18:06:04 [careeradvisor.local][debug] Deleted queue item #29
+-------------------------------
+06-03-2023 18:06:11 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Partner_img-3-1.png.
+06-03-2023 18:06:11 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Partner_img-3-1-150x80.png.
+06-03-2023 18:06:12 [careeradvisor.local][debug] Deleted queue item #28
+-------------------------------
+06-03-2023 18:06:19 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/Partner_img-4-1.png.
+06-03-2023 18:06:19 [careeradvisor.local][debug] Deleted queue item #27
+-------------------------------
+06-03-2023 18:06:28 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder.png.
+06-03-2023 18:06:28 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-150x150.png.
+06-03-2023 18:06:28 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-300x200.png.
+06-03-2023 18:06:29 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-768x512.png.
+06-03-2023 18:06:29 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-1024x683.png.
+06-03-2023 18:06:29 [careeradvisor.local][debug] Deleted queue item #31
+-------------------------------
+06-03-2023 18:06:34 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-1.png.
+06-03-2023 18:06:34 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-1-150x150.png.
+06-03-2023 18:06:34 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-1-300x200.png.
+06-03-2023 18:06:34 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-1-768x512.png.
+06-03-2023 18:06:34 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/placeholder-1-1024x683.png.
+06-03-2023 18:06:34 [careeradvisor.local][debug] Deleted queue item #32
+-------------------------------
+06-03-2023 18:06:41 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/quet-bg.png.
+06-03-2023 18:06:41 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/quet-bg-150x150.png.
+06-03-2023 18:06:41 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/quet-bg-300x151.png.
+06-03-2023 18:06:41 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/quet-bg-768x386.png.
+06-03-2023 18:06:41 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/quet-bg-1024x515.png.
+06-03-2023 18:06:41 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/quet-bg-1536x773.png.
+06-03-2023 18:06:41 [careeradvisor.local][debug] Deleted queue item #53
+-------------------------------
+06-03-2023 18:07:03 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/welcome8-2.jpg.
+06-03-2023 18:07:03 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/welcome8-2-150x150.jpg.
+06-03-2023 18:07:03 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/welcome8-2-300x167.jpg.
+06-03-2023 18:07:03 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/welcome8-2-768x427.jpg.
+06-03-2023 18:07:03 [careeradvisor.local][debug] Deleted queue item #1
+-------------------------------
+06-03-2023 18:07:09 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/head3.jpg.
+06-03-2023 18:07:10 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/head3-150x150.jpg.
+06-03-2023 18:07:10 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/head3-300x169.jpg.
+06-03-2023 18:07:10 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/head3-768x432.jpg.
+06-03-2023 18:07:10 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/head3-1024x576.jpg.
+06-03-2023 18:07:10 [careeradvisor.local][info] Restored file: C:/Users/rtbcn/Local Sites/careeradvisor/app/public/wp-content/uploads/wio_backup/2023/02/head3-1536x864.jpg.
+06-03-2023 18:07:10 [careeradvisor.local][debug] Deleted queue item #2
+-------------------------------
